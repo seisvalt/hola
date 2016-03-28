@@ -2,7 +2,4 @@ files:
   - README.md
 
 articles:
-
- 	- Overview: README.md
-
- 	- Todo App: examples/todo/README.md
+  - Overview: README.md
